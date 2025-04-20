@@ -1,6 +1,6 @@
 <!-- CYBERSECURITY BANNER -->
 <div align="center">
-  <img src="https://github.com/rafat1999/GIT_Portfolio/blob/main/enhanced-cyber-banner.svg" alt="Cybersecurity Banner with Popular Hacking Tools">
+  <img src="https://github.com/rafat1999/rafat1999/blob/main/enhanced-cyber-banner.svg" alt="Cybersecurity Banner with Popular Hacking Tools">
 </div>
 
 <!-- ANIMATED INTRODUCTION -->
@@ -19,7 +19,7 @@
 
 ## 💫 About Me
 
-<img align="right" width="38%" src="https://github.com/rafat1999/GIT_Portfolio/blob/main/Cyber_Security.gif"/>
+<img align="right" width="38%" src="https://github.com/rafat1999/rafat1999/blob/main/Cyber_Security.gif"/>
 
 🔐 **Cybersecurity Professional** with extensive experience in:
   - Threat Detection & Response
