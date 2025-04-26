@@ -31,7 +31,7 @@
 🧰 **Tools of Trade**:
   - Wireshark, Burp Suite, Metasploit
   - Nmap, Aircrack-ng, John the Ripper
-  - Kali Linux, Parrot OS
+  - Kali Linux, Parrot OS, ReMnux 
   - Custom Security Scripts & Tools
 
 🎓 **Trainer & Mentor** helping aspiring professionals build strong cybersecurity foundations
