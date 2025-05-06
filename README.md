@@ -18,6 +18,9 @@
 </div>
 
 ## 💫 About Me
+<p style="text-align: justify;">I'm a Cybersecurity Specialist, Trainer, and Tech Entrepreneur passionate about making the digital world safer and smarter. With hands-on experience in threat detection, system hardening, and ethical hacking, I help individuals and organizations stay one step ahead of cyber threats.</p>
+
+<p style="text-align: justify;">💻 I also love building things! From secure web apps to automated tools, I enjoy combining cybersecurity principles with software development using Python, Node.js, PHP, and Linux.</p>
 
 <img align="right" width="38%" src="https://github.com/rafat1999/rafat1999/blob/main/Cyber_Security.gif"/>
 
